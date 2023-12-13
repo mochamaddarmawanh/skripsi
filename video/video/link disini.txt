@@ -1,0 +1,5 @@
+implementasi dasar library face api js: https://www.youtube.com/watch?v=fUO4r3Um8es&t=2s
+
+Pengujian sistem: https://www.youtube.com/watch?v=98nSrHcRS2E&t=158s
+
+Pengujian sistem (tambahan): https://www.youtube.com/watch?v=6mMywwD6mAw
